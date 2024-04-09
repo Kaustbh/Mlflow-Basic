@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VisualStudioPython/Mlops%20Chest%20Cancer%20Classification/mlflow/mlruns/0/f85bbb8cc5374148845776b8eaed9e39/artifacts
+end_time: 1712668757270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f85bbb8cc5374148845776b8eaed9e39
+run_name: abrasive-swan-210
+run_uuid: f85bbb8cc5374148845776b8eaed9e39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712668750580
+status: 3
+tags: []
+user_id: Hp

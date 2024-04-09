@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VisualStudioPython/Mlops%20Chest%20Cancer%20Classification/mlflow/mlruns/0/bfd56367174142248e67865b5f4e809b/artifacts
+end_time: 1712668802523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfd56367174142248e67865b5f4e809b
+run_name: adorable-mule-454
+run_uuid: bfd56367174142248e67865b5f4e809b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712668797617
+status: 3
+tags: []
+user_id: Hp
